@@ -1,6 +1,6 @@
 ### Hi there 
 
-I am an aspiring web developer focusing on JavaScript and back-end development.
+I am an aspiring web developer with a focus on JavaScript.
 
 
 <!--
