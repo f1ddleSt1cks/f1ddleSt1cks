@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 
+
+I am an aspiring web developer focusing on JavaScript and back-end development.
+
 
 <!--
 **f1ddleSt1cks/f1ddleSt1cks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
